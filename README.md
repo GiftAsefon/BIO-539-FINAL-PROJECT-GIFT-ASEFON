@@ -17,10 +17,10 @@ This project analyzes genomic and clinical data from lung adenocarcinoma patient
 ## Key Findings
 
 - Demographic analysis revealed [summary of demographic findings]
-- The most frequently mutated genes were TP53 (X%), KRAS (X%), and EGFR (X%)
+- The most frequently mutated genes were TP53 (50%), KRAS (27%), and EGFR (13%)
 - TP53 mutations were significantly associated with worse survival outcomes (p = 0.0393)
 - Pathologic stage was strongly associated with survival (p < 0.001)
-- Multivariate analysis identified [list significant factors] as independent prognostic factors
+- Multivariate analysis identified Stage III showing the highest hazard ratio (HR = 3.02) as independent prognostic factors
 
 ## Repository Structure
 
