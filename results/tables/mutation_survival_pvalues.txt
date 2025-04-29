@@ -1,0 +1,15 @@
+Log-rank test for EGFR: p-value = 0.2772
+Log-rank test for KRAS: p-value = 0.7073
+Log-rank test for TP53: p-value = 0.0393
+Log-rank test for STK11: p-value = 0.1815
+Log-rank test for KEAP1: p-value = 0.3129
+Log-rank test for EGFR: p-value = 0.2772
+Log-rank test for KRAS: p-value = 0.7073
+Log-rank test for TP53: p-value = 0.0393
+Log-rank test for STK11: p-value = 0.1815
+Log-rank test for KEAP1: p-value = 0.3129
+Log-rank test for EGFR: p-value = 0.2772
+Log-rank test for KRAS: p-value = 0.7073
+Log-rank test for TP53: p-value = 0.0393
+Log-rank test for STK11: p-value = 0.1815
+Log-rank test for KEAP1: p-value = 0.3129
