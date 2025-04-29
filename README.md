@@ -16,11 +16,11 @@ This project analyzes genomic and clinical data from lung adenocarcinoma patient
 
 ## Key Findings
 
-- Demographic analysis revealed [summary of demographic findings]
-- The most frequently mutated genes were TP53 (50%), KRAS (27%), and EGFR (13%)
-- TP53 mutations were significantly associated with worse survival outcomes (p = 0.0393)
-- Pathologic stage was strongly associated with survival (p < 0.001)
-- Multivariate analysis identified Stage III showing the highest hazard ratio (HR = 3.02) as independent prognostic factors
+- Demographic analysis revealed lung adenocarcinoma patients had a median age of 67 years (n=585), with slight female predominance (48% vs 41% male) and majority White racial composition, while smoking history showed most patients had 20-50 pack-years exposure.
+- The most frequently mutated genes were TP53 (50%), KRAS (27%), and EGFR (13%).
+- TP53 mutations were significantly associated with worse survival outcomes (p = 0.0393).
+- Pathologic stage was strongly associated with survival (p < 0.001).
+- Multivariate analysis identified Stage III showing the highest hazard ratio (HR = 3.02) as independent prognostic factors.
 
 ## Repository Structure
 
