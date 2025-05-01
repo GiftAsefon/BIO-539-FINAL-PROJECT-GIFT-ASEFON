@@ -1,0 +1,10 @@
+EXPRESSION ANALYSIS SUMMARY
+
+Total genes analyzed: 39145 
+Total samples: 518 
+Top 10 most variable genes: 5225, 6440, 51297, 653509, 729238, 92304, 6286, 6192, 117156, 2266 
+
+Principal Component Analysis:
+Variance explained by PC1: 6.1 %
+Variance explained by PC2: 4.5 %
+Cumulative variance explained by PC1-2: 10.7 %

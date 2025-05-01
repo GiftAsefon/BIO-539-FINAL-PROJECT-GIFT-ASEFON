@@ -1,0 +1,6 @@
+Gene,Frame_Shift_Del,In_Frame_Del,In_Frame_Ins,Missense_Mutation,Nonsense_Mutation,Silent,Splice_Region,Frame_Shift_Ins,Splice_Site,Frequency,Percentage
+EGFR,2,30,7,59,1,4,2,0,0,105,18.78
+KRAS,0,0,0,158,1,0,0,0,0,159,28.44
+TP53,35,6,0,190,58,3,8,4,20,324,57.96
+STK11,18,1,0,23,20,3,0,6,0,71,12.7
+KEAP1,10,0,0,82,5,1,0,1,3,102,18.25

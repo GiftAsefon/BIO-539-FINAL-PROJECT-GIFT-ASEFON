@@ -1,6 +1,6 @@
-"Gene","Frequency","Percentage"
-"TP53",324,58
-"KRAS",159,28.4
-"EGFR",105,18.8
-"KEAP1",102,18.2
-"STK11",71,12.7
+Gene,Frequency,Percentage
+TP53,324,57.96
+KRAS,159,28.44
+EGFR,105,18.78
+KEAP1,102,18.25
+STK11,71,12.7
